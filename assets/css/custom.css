@@ -47,7 +47,7 @@ color: #656D78 !important;
 .progress {
 	margin-top: 0.3em;
 }
-/*.nav-pills>li.selected>a, .nav-pills>li.selected>a:hover, .nav-pills>li.selected>a:focus {
-	border-bottom: 3px solid;
-	font-weight: bold; 
-}*/
+
+.top-buffer-3 {
+	margin-top: 3em;
+}
